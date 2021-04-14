@@ -1,0 +1,25 @@
+/home/austenmack/Desktop/P1_2/obj/Debug/netcoreapp3.1/P1_2.csprojAssemblyReference.cache
+/home/austenmack/Desktop/P1_2/obj/Debug/netcoreapp3.1/P1_2.AssemblyInfoInputs.cache
+/home/austenmack/Desktop/P1_2/obj/Debug/netcoreapp3.1/P1_2.AssemblyInfo.cs
+/home/austenmack/Desktop/P1_2/obj/Debug/netcoreapp3.1/P1_2.csproj.CoreCompileInputs.cache
+/home/austenmack/Desktop/P1_2/bin/Debug/netcoreapp3.1/P1_2
+/home/austenmack/Desktop/P1_2/bin/Debug/netcoreapp3.1/P1_2.deps.json
+/home/austenmack/Desktop/P1_2/bin/Debug/netcoreapp3.1/P1_2.runtimeconfig.json
+/home/austenmack/Desktop/P1_2/bin/Debug/netcoreapp3.1/P1_2.runtimeconfig.dev.json
+/home/austenmack/Desktop/P1_2/bin/Debug/netcoreapp3.1/P1_2.dll
+/home/austenmack/Desktop/P1_2/bin/Debug/netcoreapp3.1/P1_2.pdb
+/home/austenmack/Desktop/P1_2/obj/Debug/netcoreapp3.1/P1_2.dll
+/home/austenmack/Desktop/P1_2/obj/Debug/netcoreapp3.1/P1_2.pdb
+/home/austenmack/Desktop/P1_2/obj/Debug/netcoreapp3.1/P1_2.genruntimeconfig.cache
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/bin/Debug/netcoreapp3.1/P1_2.deps.json
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/bin/Debug/netcoreapp3.1/P1_2.runtimeconfig.json
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/bin/Debug/netcoreapp3.1/P1_2.runtimeconfig.dev.json
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/bin/Debug/netcoreapp3.1/P1_2.dll
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/bin/Debug/netcoreapp3.1/P1_2.pdb
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/obj/Debug/netcoreapp3.1/P1_2.csprojAssemblyReference.cache
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/obj/Debug/netcoreapp3.1/P1_2.AssemblyInfoInputs.cache
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/obj/Debug/netcoreapp3.1/P1_2.AssemblyInfo.cs
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/obj/Debug/netcoreapp3.1/P1_2.csproj.CoreCompileInputs.cache
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/obj/Debug/netcoreapp3.1/P1_2.dll
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/obj/Debug/netcoreapp3.1/P1_2.pdb
+/Users/austenmack/MCS Projects/539 Crypto/P1_2/obj/Debug/netcoreapp3.1/P1_2.genruntimeconfig.cache
